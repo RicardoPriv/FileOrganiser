@@ -13,6 +13,6 @@ This project organizes files within a specified directory based on their file ex
 
 ```bash
 make ARGS='/path/to/directory yes'
+```
 
-## Note:
-  Makefile was made and run on Ubuntu, Linux
+Note: Makefile was made and run on Ubuntu, Linux
