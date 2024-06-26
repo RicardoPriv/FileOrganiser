@@ -14,5 +14,5 @@ This project organizes files within a specified directory based on their file ex
 ```bash
 make ARGS='/path/to/directory yes'
 
-
-- Made primarily for and test on Linux, Ubuntu. Unaware of functionality on other OS
+##
+Note: Makefile was made and run on Ubuntu, Linux
